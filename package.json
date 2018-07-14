@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "tsc -w -p tsconfig.json"
+    "dev": "tsc -w -p tsconfig.json",
+    "dev1" : "lite-server"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0"
   }
 }

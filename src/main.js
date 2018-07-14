@@ -2,7 +2,7 @@ import Employee from './Employee';
 
 export default class Main {
     static main(){
-      console.log("Hello");
+      console.log("Hellooo");
       console.log("Helloo");
 
       let emp1 = new Employee;
